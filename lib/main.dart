@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
             children: [
               // Texto "Acesse todas as notícias de hoje"
               Text(
-                'Acesse todas as notícias de hoje',
+                'Acesse nossas novas noticias! Não Perca!',
                 style: TextStyle(fontSize: 18.0),
                 textAlign: TextAlign.center,
               ),
