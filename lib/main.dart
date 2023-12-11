@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                'Acesse todas as notícias de hoje',
+                'Acesse nossas novas noticias! Não Perca!',
                 style: TextStyle(fontSize: 18.0),
                 textAlign: TextAlign.center,
               ),
